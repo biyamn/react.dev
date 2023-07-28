@@ -1,9 +1,10 @@
 ---
 title: Preserving and Resetting State
+
 ---
 
 <Intro>
-
+<p>여기부터 봐야 함!!!!!</p>
 State is isolated between components. React keeps track of which state belongs to which component based on their place in the UI tree. You can control when to preserve state and when to reset it between re-renders.
 
 </Intro>
